@@ -42,7 +42,8 @@ learn-programming-the-right-way/
 │   ├── Day-04_Operators/
 │   ├── Day-05_Conditionals/
 │   ├── Day-06_Loops/
-│   └── Day-07_Project_ATM/
+|   ├── Day-07_Mini_Project/
+│   └── Project_ATM_Simulation/
 │
 ├── Week-02_Data_Structures/       (Days 8–14)
 │   ├── Day-08_Arrays_Strings/
