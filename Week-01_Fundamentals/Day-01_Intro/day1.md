@@ -104,5 +104,5 @@ class Main {
     }
 }
 ```
-Choose ONE language today.
+Choose ONE language today. (Recommended - Python)
 Do not try all if you feel overwhelmed.
